@@ -23,7 +23,7 @@ const (
 )
 
 func init() {
-	//なければ作成
+	//DB接続(なければ作成)
 	Db, err = sql.Open(config.Config.SQLDriver, config.Config.DbName)
 	if err != nil {
 		log.Fatalln(err)

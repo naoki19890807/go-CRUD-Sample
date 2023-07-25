@@ -1,7 +1,0 @@
-2023/07/20 09:50:00 main.go:15: test
-2023/07/20 11:12:10 users.go:54: sql: Scan error on column index 0, name "id": destination not a pointer
-2023/07/20 11:20:07 users.go:56: sql: Scan error on column index 0, name "id": destination not a pointer
-2023/07/20 11:24:04 users.go:55: sql: Scan error on column index 0, name "id": destination not a pointer
-2023/07/20 11:40:15 users.go:54: sql: Scan error on column index 0, name "id": destination not a pointer
-2023/07/20 13:52:26 users.go:54: sql: no rows in result set
-2023/07/20 13:57:39 todos.go:25: not enough args to execute query: want 3 got 2
